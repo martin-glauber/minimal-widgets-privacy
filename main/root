@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — Minimal Widgets</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    max-width: 720px;
+    margin: 60px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+    color: #111;
+    background: #fff;
+  }
+  h1 { font-size: 1.8rem; margin-bottom: 0.2em; }
+  h2 { font-size: 1.15rem; margin-top: 2em; }
+  p, li { font-size: 0.98rem; }
+  .effective { color: #666; font-size: 0.9rem; margin-bottom: 2em; }
+  a { color: #111; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p class="effective">Effective date: August 27, 2026</p>
+
+<p>This privacy policy applies to the <strong>Minimal Widgets</strong> app for iOS (the "Application"), developed by Martin Glauber (the "Service Provider").</p>
+
+<h2>Information We Access</h2>
+<p>Minimal Widgets connects to your WHOOP account via WHOOP's official OAuth login. With your explicit permission, the Application retrieves health and fitness metrics from your WHOOP account, which may include Recovery score, Strain, Sleep performance, and Heart Rate Variability (HRV), in order to display them in the widgets you configure.</p>
+
+<h2>How Your Data Is Stored</h2>
+<p>Your WHOOP data is stored locally on your device only, using Apple's App Group storage to share data between the Application and its widgets. The Service Provider does not operate a server and does not transmit, sell, or share your WHOOP data with any third party. Your OAuth access token is stored securely in the device Keychain.</p>
+
+<h2>Your Rights</h2>
+<p>You may revoke the Application's access to your WHOOP data at any time from your WHOOP account settings. Uninstalling the Application removes all locally stored data. You may request information about, or deletion of, any data associated with you by contacting the Service Provider at <a href="mailto:martinglauber09@icloud.com">martinglauber09@icloud.com</a>.</p>
+
+<h2>Your California Privacy Rights (CCPA/CPRA)</h2>
+<p>If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise these rights, contact the Service Provider at <a href="mailto:martinglauber09@icloud.com">martinglauber09@icloud.com</a>.</p>
+
+<h2>International Data Transfers</h2>
+<p>As no data leaves your device or is transmitted to the Service Provider's own servers, no international data transfer by the Service Provider occurs. Data exchanged directly between your device and WHOOP's servers during login is governed by WHOOP's own privacy policy.</p>
+
+<h2>Children</h2>
+<p>The Application is not intended for children under 17 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly collect personally identifiable information from children.</p>
+
+<h2>Security</h2>
+<p>The Service Provider uses reasonable technical safeguards, including Apple's Keychain and on-device storage, to protect the data handled by the Application.</p>
+
+<h2>Data Breach Notification</h2>
+<p>If a data breach occurs that affects your personal data, the Service Provider will notify you in accordance with applicable legal requirements.</p>
+
+<h2>Changes to This Policy</h2>
+<p>The Service Provider may update this Privacy Policy from time to time. Material changes will be reflected by an updated effective date at the top of this page.</p>
+
+<h2>Contact</h2>
+<p>If you have any questions about this Privacy Policy, contact the Service Provider at <a href="mailto:martinglauber09@icloud.com">martinglauber09@icloud.com</a>.</p>
+
+</body>
+</html>
